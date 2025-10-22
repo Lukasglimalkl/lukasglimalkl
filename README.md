@@ -38,10 +38,10 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaslimalkl&theme=react&hide_border=false"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasglimalkl&theme=react&hide_border=false"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaslimalkl&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasglimalkl&layout=compact&theme=react&count_private=true"/>
       </td>
     </tr>
   </table>
