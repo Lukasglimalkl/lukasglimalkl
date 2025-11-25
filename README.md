@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cd0021&height=120&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cd0021&height=120&section=header" />
 
 # LUKAS LIMA
 
@@ -18,107 +18,60 @@
 
 </div>
 
----
+## 💼 About Me
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> About Me
-```typescript
-const lukas = {
-    role: "Full Stack Developer",
-    company: "NODDIO",
-    expertise: ["RPA Solutions", "Business Intelligence", "System Integration"],
-    stack: {
-        backend: ["Go", "Node.js", "Python"],
-        frontend: ["React", "Next.js", "TypeScript"],
-        automation: ["Chromedp", "Selenium", "Puppeteer"]
-    },
-    location: "Brasil 🇧🇷"
-};
-```
+Desenvolvedor especializado em **automação RPA**, **business intelligence** e **integrações de sistemas**. Fundador da NODDIO, focado em soluções para e-commerce, logística e imobiliário.
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack
+**Stack Principal:** Go • JavaScript • TypeScript • Python • React • Next.js
 
-<table align="center">
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,js,ts,python,react,nextjs" />
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,git,html,css" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasglimalkl&show_icons=true&count_private=true&hide_border=true&title_color=cd0021&icon_color=cd0021&text_color=c9d1d9&bg_color=0d1117" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasglimalkl&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=cd0021&fire=cd0021&currStreakLabel=cd0021" />
     </td>
   </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Statistics
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasglimalkl&layout=compact&hide_border=true&title_color=cd0021&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lukasglimalkl&show_icons=true&count_private=true&hide_border=true&title_color=cd0021&icon_color=cd0021&text_color=c9d1d9&bg_color=0d1117" alt="Lukas Lima github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasglimalkl&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=cd0021&fire=cd0021&currStreakLabel=cd0021" />
 </div>
 
+## 🎯 Current Focus
+```javascript
+const currentProjects = {
+    rpa: "Automated data extraction systems",
+    bi: "Real-time business intelligence dashboards",
+    automation: "WhatsApp business automation",
+    integration: "ERP and third-party API integrations"
+};
+```
+
+## 📫 Contact
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasglimalkl&layout=compact&hide_border=true&title_color=cd0021&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Current Focus
-
-- 🔴 Developing RPA systems for automated data extraction
-- 🔴 Building real-time business intelligence dashboards
-- 🔴 Creating WhatsApp automation solutions for businesses
-- 🔴 System integration with ERP and third-party APIs
-
-### 📫 Get in Touch
-
-<div align="center">
-
-**Open for projects and collaborations**
 
 [![Email](https://img.shields.io/badge/Email-cd0021?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaslimalkl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cd0021?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaslimalkl/)
 
+**Open for projects and collaborations** 🚀
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cd0021&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cd0021&height=100&section=footer" />
